@@ -9,3 +9,5 @@
 Добавлена инфа
 
 Repo 2
+
+Line conflict
